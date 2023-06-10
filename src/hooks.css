@@ -1,0 +1,10 @@
+.counting {
+  margin: 0% 40%;
+}
+.countCard {
+  box-shadow: 0px 0px 19px 3px yellowgreen;
+  border-radius: 1rem !important;
+}
+.countingBox {
+  margin: 10% 15%;
+}
